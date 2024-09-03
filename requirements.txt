@@ -1,0 +1,8 @@
+Django==4.2
+openai
+requests
+psycopg2-binary
+chromadb
+pymongo
+google-generativeai
+django-cors-headers

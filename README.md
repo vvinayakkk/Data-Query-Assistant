@@ -5,6 +5,7 @@
 This project provides a robust solution for generating SQL queries from natural language questions using ChromaDB, MongoDB, and PostgreSQL. It is designed to be integrable into any website and adaptable to various database structures. The system includes tools for embedding storage, query generation, and result retrieval.
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/78a81b25-62ee-4791-9117-093f6a5b7ed4)
 
 ### Components
 
